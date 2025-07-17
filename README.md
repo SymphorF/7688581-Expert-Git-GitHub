@@ -57,8 +57,12 @@ Merci de lire les fichiers :
 * **Non spécifié**
 
 
-# Test de phrase conflit différente de celle du local
+# Test de phrase conflit distante
 
 ## License
+
+# Test de phrase conflit locale
+
+## License 
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
