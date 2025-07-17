@@ -56,6 +56,9 @@ Merci de lire les fichiers :
 
 * **Non spécifié**
 
+
+# Test de phrase conflit différente de celle du local
+
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
